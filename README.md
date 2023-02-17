@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@mohanvamsinadh" target="blank"><img src="https://img.shields.io/twitter/follow/@mohanvamsinadh?logo=twitter&style=for-the-badge" alt="@mohanvamsinadh" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack, React JS**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Web Development**
 
